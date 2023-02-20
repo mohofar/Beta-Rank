@@ -1,4 +1,4 @@
-# Beta-Rank
+# Beta-Rank (Under Reconstruction!!)
 
 β-rank: A Robust Convolutional Filter Pruning Method for Imbalanced Medical Image Analysis!
 
