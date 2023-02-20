@@ -23,9 +23,29 @@ The ranking of the our method is based on the following equation where $R_{i_k}^
 
 
 ## How to train
+Example: Cifar10 and VGG16 model training using Beta-rank method
 
-For training the models use ```train_models ```. An example of training model
+1. Generate ranking of filters using ```rank_generation_c10.py``` by providing enough information:
 
+```shell
+!python rank_generation_c10.py \
+--pretrain_dir './baseline/Baseline_VGG_cifar10/vgg_16_bn.pt' \
+--arch 'vgg_16_bn' \
+--pruning_method 'Beta'\
+--batch_size 16
+```
+
+2. Train pruned model 
+
+```shell
+!python tuning_cifar10.py \
+--job_dir './rank_conv/vgg_16_bn_Beta_limit1' \
+--arch 'vgg_16_bn' \
+--use_pretrain \
+--pretrain_dir './baseline/Baseline_VGG_cifar10/vgg_16_bn.pt' \
+--compress_rate [0.65]*7+[0.8]*5 \
+--rank_conv_prefix './rank_conv/vgg_16_bn_Beta_limit1' 
+```
 ## Trained Models and Log Files
 
 ## How to Evaluate 
