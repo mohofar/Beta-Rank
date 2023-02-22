@@ -71,7 +71,7 @@ The tables below present the results obtained by three methods under identical t
 <img src="https://github.com/mohofar/Beta-Rank/blob/main/images/tt1.png" width=65% height=65%>
 <img src="https://github.com/mohofar/Beta-Rank/blob/main/images/t2.png" width=65% height=65%>
 
-In order to assess the stability of various methods, we have introduced the following equation, which considers filters in the form of colorful shapes.
+In order to assess the stability through different experiments (E1 and E2) of various methods (M1 and M2), we have introduced the following equation, which considers filters in the form of colorful shapes.
 
 <img src="https://github.com/mohofar/Beta-Rank/blob/main/images/Sa_St.png" width=25% height=25%>
 
