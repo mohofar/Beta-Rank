@@ -4,8 +4,8 @@ paper title: β-rank: A Robust Convolutional Filter Pruning Method for Imbalance
 
 ## Contents
 - [Overview](#overview)
-- [Before training](before-training)
-- [How to train](how-to-train)
+- [Before training](#before-training)
+- [How to train](#how-to-train)
 - [Trained models and log files](#trained-models-and-log-files)
 - [Results](#results)
 - [Android Demo](#android-demo)
