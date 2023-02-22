@@ -1,4 +1,4 @@
-# β-rank (Under Reconstruction!!)
+# β-rank 
 
 paper title: β-rank: A Robust Convolutional Filter Pruning Method for Imbalanced Medical Image Analysis!
 
@@ -80,7 +80,7 @@ The following plots show the stability of filter selection using different filte
 <img src="https://github.com/mohofar/Beta-Rank/blob/main/images/St.png" width=55% height=55%>
 
 
-## Android Demo
+## Android Demo (Under Reconstruction!!)
 
 ## Citation
 
