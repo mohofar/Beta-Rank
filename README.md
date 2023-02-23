@@ -1,6 +1,6 @@
 # β-rank 
 
-paper title: β-rank: A Robust Convolutional Filter Pruning Method for Imbalanced Medical Image Analysis!
+Paper title: β-rank: A Robust Convolutional Filter Pruning Method for Imbalanced Medical Image Analysis!
 
 ## Contents
 - [Overview](#overview)
@@ -13,6 +13,8 @@ paper title: β-rank: A Robust Convolutional Filter Pruning Method for Imbalance
 
 ## Overview
 The ranking of β-rank is based on the following equation where $R_{i_k}^{L1}=\sum|f_{i_k}|$ is absolute summation of a filter values.
+
+<img src="https://github.com/mohofar/Beta-Rank/blob/main/images/Picture1.png" width=65% height=65%>
 
 <img src="https://github.com/mohofar/Beta-Rank/blob/main/images/Equation5.png" width=55% height=55%>
 
