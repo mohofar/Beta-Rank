@@ -21,8 +21,7 @@ The ranking of β-rank is based on the following equation where $R_{i_k}^{L1}=\s
 ## Before training
 To facilitate the usage of the codes, the folder structure should be organized in the following manner:
 
-<img src="https://github.com/mohofar/Beta-Rank/blob/main/images/F1.png" width=40% height=40%>
-<img src="https://github.com/mohofar/Beta-Rank/blob/main/images/F2.png" width=40% height=40%>
+<img src="https://github.com/mohofar/Beta-Rank/blob/main/images/FS.png" width=40% height=40%>
 
 Note: In order to make the repository smaller, we have excluded the data and baseline folders from our uploads. However, if you require the datasets for training purposes, you may obtain the folders from the links provided. Additionally, please download the [```data```](https://drive.google.com/drive/folders/1cY2FqpykVAO_M0qiyQsqQXeF8UOKxAzB?usp=sharing) and [```baseline```](https://drive.google.com/drive/folders/1zgYYArsM7p2UhkgaHfQarc8OUUlPDpJU?usp=sharing) folders from the provided links and include them with the others. Alternatively, you can create empty folders for them Lastly, note that the "rank_conv" folder is currently empty and will be used to store the training log.
 
