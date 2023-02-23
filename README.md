@@ -1,6 +1,4 @@
-# β-rank 
-
-Paper title: β-rank: A Robust Convolutional Filter Pruning Method for Imbalanced Medical Image Analysis!
+# β-rank: A Robust Convolutional Filter Pruning Method for Imbalanced Medical Image Analysis!
 
 ## Contents
 - [Overview](#overview)
