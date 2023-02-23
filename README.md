@@ -19,7 +19,7 @@ The ranking of β-rank is based on the following equation where $R_{i_k}^{L1}=\s
 
 
 ## Before training
-The folders structre are as follow:
+To facilitate the usage of the codes, the folder structure should be organized in the following manner:
 
 <img src="https://github.com/mohofar/Beta-Rank/blob/main/images/F1.png" width=40% height=40%>
 <img src="https://github.com/mohofar/Beta-Rank/blob/main/images/F2.png" width=40% height=40%>
@@ -85,4 +85,4 @@ The following plots show the stability of filter selection using different filte
 ## Citation
 
 ## Note
-We are grateful to the authors of the Hrank paper (https://github.com/lmbxmu/HRankPlus) for sharing their code, which we used as a basis for our own work.
+We utilized the code provided by the authors of the Hrank paper (https://github.com/lmbxmu/HRankPlus) as a foundation for our research.
