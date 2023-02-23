@@ -62,7 +62,7 @@ Example: Cifar10 and VGG16 model training using Beta-rank method
 --epochs 5
 ```
 
-Note: To observe the outcomes of a sample run, refer to the ```Sample_running.ipynb``` file.
+Note: To observe the outcomes of a sample run, refer to the ```sample_running.ipynb``` file.
 
 ## Trained Models and Log Files
 All the configurations, ranking of filters, training logs, and trained weights  that are mentioned in the paper can be found at this [link](https://drive.google.com/drive/folders/1ys83lqR5rhUaegPy1lZxHYLkOixhJ38l?usp=sharing).
