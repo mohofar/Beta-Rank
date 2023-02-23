@@ -85,4 +85,4 @@ The following plots show the stability of filter selection using different filte
 ## Citation
 
 ## Note
-We utilized the code provided by the authors of the Hrank paper (https://github.com/lmbxmu/HRankPlus) as a foundation for our research.
+We utilized the code provided by the authors of the Hrank paper (https://github.com/lmbxmu/HRankPlus) as a basis for our research. Additional details can be found in their repository.
