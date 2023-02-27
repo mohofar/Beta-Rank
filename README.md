@@ -79,7 +79,11 @@ The following plots show the stability of filter selection using different filte
 <img src="https://github.com/mohofar/Beta-Rank/blob/main/images/St.png" width=55% height=55%>
 
 
-## Android Demo (Under Reconstruction!!)
+## Android Demo 
+
+Here you can find the [source code](https://drive.google.com/drive/folders/1SEG7r6r__C3fXMzbBwa3iMPuFZ8u2B_M?usp=sharing) for Android version 12. We used the repository code from GitHub (https://github.com/pytorch/workshops) for our testing. A demonstration of this application can be found at the following GIF:
+<img src="https://github.com/mohofar/Beta-Rank/blob/main/images/Anrdr.gif" width=25% height=25%/>
+
 
 ## Citation
 
