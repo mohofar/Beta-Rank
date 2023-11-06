@@ -74,19 +74,19 @@ In order to assess the stability through different experiments (E1 and E2) of va
 
 <img src="https://github.com/mohofar/Beta-Rank/blob/main/images/Sa_St.png" width=25% height=25%>
 
-The following plots show the stability of filter selection using different filter pruning methods (Blue: Beta-rank, Orange: Hrank) for ResNet56. The actual values are presented in gray color and smoothed versions of them are presented in blue and orange. The best value for fraction of stability is 0.25 in this analysis as we select 25% of the top and least ranked filters to explore.
+The following plots show the stability of filter selection using different filter pruning methods (Blue: Beta-rank, Orange: Hrank) for ResNet56. The actual values are presented in gray color and smoothed versions of them are presented in blue and orange. The best value for a fraction of stability is 0.25 in this analysis as we select 25% of the top and least ranked filters to explore.
 
 <img src="https://github.com/mohofar/Beta-Rank/blob/main/images/St.png" width=55% height=55%>
 
 
 ## Android Demo 
 
-Here you can find the [source code](https://drive.google.com/drive/folders/1SEG7r6r__C3fXMzbBwa3iMPuFZ8u2B_M?usp=sharing) for Android version 12. We used the repository code from GitHub (https://github.com/pytorch/workshops) for our testing. A demonstration of this application can be found at the following GIF:
+Here you can find the [source code](https://drive.google.com/drive/folders/1SEG7r6r__C3fXMzbBwa3iMPuFZ8u2B_M?usp=sharing) for Android version 12. We used the repository code from GitHub (https://github.com/pytorch/workshops) for our testing. A demonstration of this application can be found in the following GIF:
 
 <img src="https://github.com/mohofar/Beta-Rank/blob/main/images/Anrdr.gif" width=25% height=25%/>
 
 
 ## Citation
-
+Homayounfar, M., Koohi-Moghadam, M., Rawassizadeh, R., & Vardhanabhuti, V. (2023). Beta-Rank: A Robust Convolutional Filter Pruning Method For Imbalanced Medical Image Analysis. arXiv preprint arXiv:2304.07461.
 ## Note
 We utilized the code provided by the authors of the Hrank paper (https://github.com/lmbxmu/HRankPlus) as a basis for our research. Additional details can be found in their repository.
